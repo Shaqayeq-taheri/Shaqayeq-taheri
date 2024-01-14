@@ -1,5 +1,4 @@
 
-![Header](https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/assets/120387460/569a7f4e-ceb9-4ef7-ac3b-3ef5a34a57a3)
 
 <div align="center">
   <img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/assets/120387460/569a7f4e-ceb9-4ef7-ac3b-3ef5a34a57a3" alt="Header" width="100%" height="auto">
