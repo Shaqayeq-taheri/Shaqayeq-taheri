@@ -27,7 +27,7 @@
  
 </h3>
 HTML, CSS,JAVASCRIPT, MEARN
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,git,mongodb,express)](https://skills.thijs.gg) 
 
 <h3>
   <samp>
