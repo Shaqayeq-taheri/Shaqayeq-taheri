@@ -28,19 +28,28 @@
 </h3>
 HTML, CSS,JAVASCRIPT, MEARN
 
+
+<h3>
+  <samp>
+     Reach Me
+  </samp>
+ 
+</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaqayeq-taheri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaqayeq-taheri.onrender.com)  
+
+
 <h3>
   <samp>
      Profile Summary
   </samp>
  
 </h3>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaqayeq-taheri&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaqayeq-taheri&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaqayeq-taheri&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaqayeq-taheri&theme=aura_dark&utcOffset=8)
-
 
 
 
