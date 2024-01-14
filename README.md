@@ -19,7 +19,8 @@
 <p>
   I'm Shaqayeq Taheri, live in Germany, Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging web pages.
 </p>
-
+</br>
+</br>
 <h2>
   <samp>
      Skills
@@ -27,7 +28,8 @@
  
 </h2>
 HTML, CSS,JAVASCRIPT, MEARN
-
+</br>
+</br>
 
 <h2>
   <samp>
