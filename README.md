@@ -61,17 +61,8 @@ HTML, CSS,JAVASCRIPT, MEARN
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
-</p>
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaqayeq-taheri&theme=aura_dark&utcOffset=8" alt="Profile Details" />
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaqayeq-taheri&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaqayeq-taheri&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaqayeq-taheri&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaqayeq-taheri&theme=aura_dark&utcOffset=8)
-
-
 
 
 
