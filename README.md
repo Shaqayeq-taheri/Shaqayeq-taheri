@@ -52,12 +52,13 @@ HTML, CSS,JAVASCRIPT, MEARN
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
 </p>
-<p align="left">
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
-</p>
-<p align="right">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
 </p>
+
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
 </p>
