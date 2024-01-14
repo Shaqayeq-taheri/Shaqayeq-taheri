@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Shaqayeq
-#### I am Web Developer
+
 ![Header](https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/assets/120387460/569a7f4e-ceb9-4ef7-ac3b-3ef5a34a57a3)
 
 
