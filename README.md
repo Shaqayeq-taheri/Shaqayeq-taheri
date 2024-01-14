@@ -48,9 +48,16 @@ HTML, CSS,JAVASCRIPT, MEARN
 </h3>
 
 <p>BioBaumBauer</p>
-<img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-35-11.png" width='400'>
-<img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-40-40.png" width='400'>
-<img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-40-56.png" width='400'>
+<p align="center">
+ <img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-35-11.png" width='500'>
+<img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-40-40.png" width='300'> 
+</p>
+<p align="center">
+  <img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-40-56.png" width='300'>
+<img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-14%2020-41-15.png
+" width='500'>
+</p>
+
 
 
 <h3>
