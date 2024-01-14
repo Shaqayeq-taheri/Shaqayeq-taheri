@@ -30,12 +30,14 @@
 
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaqayeq-taheri&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaqayeq-taheri&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaqayeq-taheri&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaqayeq-taheri&theme=aura_dark&utcOffset=8)
 
 
 
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaqayeq-taheri)](https://github.com/anuraghazra/github-readme-stats)
