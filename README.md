@@ -22,7 +22,6 @@
 </h4>
  HTML/ CSS / JS/ MERN
 
-- 🔭 I’m currently working on this page. 
 
 
 
