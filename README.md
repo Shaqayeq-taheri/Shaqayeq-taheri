@@ -28,7 +28,12 @@
 </h3>
  HTML/ CSS / JS/ MERN
 
-
+<h3>
+  <samp>
+     Profile Summary
+  </samp>
+ 
+</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaqayeq-taheri&theme=aura_dark)
