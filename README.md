@@ -13,9 +13,14 @@
 <h4>
   About Me
 </h4>
-I'm Shaqayeq Taheri, lives in Germany, Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging web pages.
+<p>
+  I'm Shaqayeq Taheri, lives in Germany, Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging web pages.
+</p>
 
-Skills: HTML/ CSS / JS/ MERN
+<h4>
+  Skills
+</h4>
+ HTML/ CSS / JS/ MERN
 
 - 🔭 I’m currently working on this page. 
 
