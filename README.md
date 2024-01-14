@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <samp>
-   <b>Web & Software Developer, based in Berlin, Germany</b>
+   <b>Web & Software Developer, based in Aachen, Germany</b>
   </samp>
 </h5>
 
