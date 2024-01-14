@@ -27,7 +27,7 @@
  
 </h3>
 HTML, CSS,JAVASCRIPT, MEARN
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,git,mongodb,express)](https://skills.thijs.gg) 
+
 
 <h3>
   <samp>
@@ -36,7 +36,10 @@ HTML, CSS,JAVASCRIPT, MEARN
  
 </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaqayeq-taheri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaqayeq-taheri.onrender.com)  
+<div align="center">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaqayeq-taheri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaqayeq-taheri.onrender.com)  
+
+</div>
 
 
 <h3>
