@@ -40,15 +40,16 @@ HTML, CSS,JAVASCRIPT, MEARN
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaqayeq-taheri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaqayeq-taheri.onrender.com)  
 
 
-
+!--
 <h3>
   <samp>
     Projects that I contribute
   </samp>
  
 </h3>
+--!
 
-![Uploading Screenshot from 2024-01-14 20-35-11.png…]()
+
 
 
 <h3>
