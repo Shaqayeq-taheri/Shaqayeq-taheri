@@ -48,6 +48,11 @@ HTML, CSS,JAVASCRIPT, MEARN
   </samp>
  
 </h3>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark" alt="Profile Details" />
+</p>
+
 <div align="center">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaqayeq-taheri&theme=aura_dark)
 </div>
