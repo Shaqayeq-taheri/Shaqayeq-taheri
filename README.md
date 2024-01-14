@@ -43,7 +43,7 @@ HTML, CSS,JAVASCRIPT, MEARN
 
 <h2>
   <samp>
-  Projects that I contribute
+  Projects that I contributed
   </samp>
  
 </h2>
