@@ -10,22 +10,22 @@
   </samp>
 </h3>
 
-<h4>
+<h3>
   <samp>
     About Me
   </samp>
   
-</h4>
+</h3>
 <p>
   I'm Shaqayeq Taheri, lives in Germany, Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging web pages.
 </p>
 
-<h4>
+<h3>
   <samp>
      Skills
   </samp>
  
-</h4>
+</h3>
  HTML/ CSS / JS/ MERN
 
 
