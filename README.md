@@ -39,14 +39,14 @@ HTML, CSS,JAVASCRIPT, MEARN
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaqayeq-taheri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shaqayeq-taheri.onrender.com)  
 
-<div style="text-align: center;">
-  <a href="https://github.com/Shaqayeq-taheri" style="text-decoration: none; color: inherit;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/Shaqayeq-taheri">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//" style="text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shaqayeq-taheri-328697254//">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
   </a>
-  <a href="https://shaqayeq-taheri.onrender.com" style="text-decoration: none; color: inherit;">
+  <a href="https://shaqayeq-taheri.onrender.com">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
   </a>
 </div>
