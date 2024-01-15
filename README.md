@@ -65,7 +65,7 @@ HTML, CSS,JAVASCRIPT, MEARN
 
 </br>
 </br>
-<h3 align="center">BioBaumBauer</h3>
+<h3 align="center">Yoga and Meditation</h3>
 <p align="center">
  <img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-15%2009-54-47.png" width='400'>
 <img src="https://github.com/Shaqayeq-taheri/Shaqayeq-taheri/blob/main/Screenshot%20from%202024-01-15%2009-54-59.png" width='400'> 
