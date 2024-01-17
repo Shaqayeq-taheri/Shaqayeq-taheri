@@ -27,6 +27,9 @@
   </samp>
  
 </h2>
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
 HTML, CSS,JAVASCRIPT, MEARN
 </br>
 </br>
