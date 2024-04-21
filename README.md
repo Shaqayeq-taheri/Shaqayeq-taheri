@@ -17,7 +17,7 @@
   
 </h2>
 <p>
-  I'm Shaqayeq Taheri, live in Germany, Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging web pages.
+  I'm Shaqayeq Taheri, live in Germany, Software & Web Developer with a background in computer engineering, enthusiastic about learning programming languages and frameworks to build dynamic and engaging applications.
 </p>
 </br>
 </br>
